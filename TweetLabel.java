@@ -1,16 +1,8 @@
 package uk.ac.cam.ha293.tweetlabel;
 
-import java.util.Map;
-
 import uk.ac.cam.ha293.tweetlabel.classify.AlchemyClassifier;
 import uk.ac.cam.ha293.tweetlabel.classify.CalaisClassifier;
 import uk.ac.cam.ha293.tweetlabel.classify.TextwiseClassifier;
-import uk.ac.cam.ha293.tweetlabel.topics.LLDATopicModel;
-import uk.ac.cam.ha293.tweetlabel.topics.LightweightLLDA;
-import uk.ac.cam.ha293.tweetlabel.twitter.Profiler;
-import uk.ac.cam.ha293.tweetlabel.twitter.SimpleProfile;
-import uk.ac.cam.ha293.tweetlabel.types.Corpus;
-import uk.ac.cam.ha293.tweetlabel.util.Tools;
 
 public class TweetLabel {
 	
