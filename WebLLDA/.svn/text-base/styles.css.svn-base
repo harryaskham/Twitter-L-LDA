@@ -1,0 +1,101 @@
+html {
+	padding: 0;
+	margin: 0px;
+}
+
+body {
+	padding: 0;
+	margin: 0px;
+	background: url("i/bg.jpg");
+	font-family: georgia, serif;
+}
+
+div#head {
+	width: 950px;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	margin-left: -475px;
+	top: 0;
+	padding: 0;
+	background: url("i/head.jpg");
+}
+
+div#content {
+	width: 870px;
+	height: auto;
+	position: absolute;
+	left: 50%;
+	margin-left: -475px;
+	top: 300px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	background: url("i/contentbg.jpg");
+	text-align: center;
+}
+
+div#loading {
+	width: 300px;
+	height: 130px;
+	position: absolute;
+	top: 50%;
+	margin-top: -65px;
+	left: 50%;
+	margin-left: -150px;
+	background: url("i/loading.jpg");
+	z-index: 100;
+	visibility: hidden;
+}
+
+div#pie {
+	width: 500px;
+	height: 300px;
+	margin-left: 200px;
+	margin-right: 200px;
+	display:none;
+
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #337;
+}
+
+img {
+	border: 0px;
+}
+
+div#interactive {
+	width: 300px;
+	text-align: right;
+	padding-left: 0px;
+	padding-right: 600px;
+	height: auto;
+}
+
+div#mapContainer {
+	width: 600px;
+	height: auto;
+	float: left;
+}
+
+div#map_canvas {
+	width: 600px;
+	height: 400px;
+}
+
+div.key {
+	width: 250px;
+	height: auto;
+	float: right;
+}
+
+div#calaisKey {
+	display: none;
+}
+
+div#textwiseKey {
+	display: none;
+}
