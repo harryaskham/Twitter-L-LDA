@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tweetlabel/!svn/ver/62/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics
+END
+FullLDAClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tweetlabel/!svn/ver/120/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/FullLDAClassification.java
+END
+MalletLDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tweetlabel/!svn/ver/34/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/MalletLDA.java
+END
+LDATopicModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tweetlabel/!svn/ver/52/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/LDATopicModel.java
+END
+FullSVMClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tweetlabel/!svn/ver/103/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/FullSVMClassification.java
+END
+SVMTopicModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tweetlabel/!svn/ver/143/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/SVMTopicModel.java
+END
+SimpleLLDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tweetlabel/!svn/ver/34/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/SimpleLLDA.java
+END
+SimpleMalletLDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tweetlabel/!svn/ver/34/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/SimpleMalletLDA.java
+END
+FullLLDAClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tweetlabel/!svn/ver/117/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/FullLLDAClassification.java
+END
+LLDATopicModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tweetlabel/!svn/ver/150/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/LLDATopicModel.java
+END
+LightweightLLDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tweetlabel/!svn/ver/152/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/topics/LightweightLLDA.java
+END

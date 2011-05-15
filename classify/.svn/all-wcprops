@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tweetlabel/!svn/ver/52/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify
+END
+CalaisClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tweetlabel/!svn/ver/24/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/CalaisClassifier.java
+END
+FullAlchemyClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tweetlabel/!svn/ver/120/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/FullAlchemyClassification.java
+END
+TextwiseClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tweetlabel/!svn/ver/109/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/TextwiseClassifier.java
+END
+NaiveBayes.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tweetlabel/!svn/ver/34/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/NaiveBayes.java
+END
+AlchemyClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tweetlabel/!svn/ver/123/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/AlchemyClassifier.java
+END
+CalaisClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tweetlabel/!svn/ver/24/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/CalaisClassification.java
+END
+TextwiseClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tweetlabel/!svn/ver/24/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/TextwiseClassification.java
+END
+FullCalaisClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tweetlabel/!svn/ver/120/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/FullCalaisClassification.java
+END
+FullTextwiseClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tweetlabel/!svn/ver/120/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/FullTextwiseClassification.java
+END
+AlchemyClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tweetlabel/!svn/ver/52/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/classify/AlchemyClassification.java
+END

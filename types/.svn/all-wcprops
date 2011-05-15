@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tweetlabel/!svn/ver/62/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/types
+END
+WordScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tweetlabel/!svn/ver/27/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/types/WordScore.java
+END
+CategoryScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tweetlabel/!svn/ver/24/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/types/CategoryScore.java
+END
+Corpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tweetlabel/!svn/ver/112/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/types/Corpus.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tweetlabel/!svn/ver/102/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/types/Pair.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tweetlabel/!svn/ver/24/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/types/Category.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tweetlabel/!svn/ver/69/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/types/Document.java
+END

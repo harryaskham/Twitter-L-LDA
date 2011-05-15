@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tweetlabel/!svn/ver/62/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/util
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tweetlabel/!svn/ver/152/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/util/Tools.java
+END
+Stopwords.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tweetlabel/!svn/ver/34/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/util/Stopwords.java
+END
+AssociatedPress.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tweetlabel/!svn/ver/27/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/util/AssociatedPress.java
+END
+Stemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tweetlabel/!svn/ver/29/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/util/Stemmer.java
+END

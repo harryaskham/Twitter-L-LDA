@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tweetlabel/!svn/ver/52/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval
+END
+SpearmanRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tweetlabel/!svn/ver/125/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/SpearmanRank.java
+END
+SimilarityPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tweetlabel/!svn/ver/76/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/SimilarityPair.java
+END
+Diversity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tweetlabel/!svn/ver/95/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/Diversity.java
+END
+SVMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tweetlabel/!svn/ver/102/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/SVMTest.java
+END
+Pearson.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tweetlabel/!svn/ver/102/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/Pearson.java
+END
+Grapher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tweetlabel/!svn/ver/95/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/Grapher.java
+END
+SimilarityMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tweetlabel/!svn/ver/125/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/SimilarityMatrix.java
+END
+CosineManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tweetlabel/!svn/ver/125/trunk/code/TweetLabel/src/uk/ac/cam/ha293/tweetlabel/eval/CosineManager.java
+END
