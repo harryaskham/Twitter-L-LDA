@@ -16,7 +16,7 @@ public class Stopwords {
 	public static boolean isStopword(String word) {
 		if(word.length() < 2) return true;
 		if(word.charAt(0) >= '0' && word.charAt(0) <= '9') return true; //remove numbers, "25th", etc
-		if(stopWordSet.contains(word)) return true;
+		if(stopWordSet.contains(word.toLowerCase())) return true;
 		else return false;
 	}
 	
