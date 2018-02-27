@@ -23,11 +23,11 @@ public class Stopwords {
 	public static boolean isStemmedStopword(String word) {
 		if(word.length() < 2) return true;
 		if(word.charAt(0) >= '0' && word.charAt(0) <= '9') return true; //remove numbers, "25th", etc
-		String stemmed = stemString(word);
-		if(stopWordSet.contains(stemmed)) return true;
-		if(stemmedStopWordSet.contains(stemmed)) return true;
-		if(stopWordSet.contains(word)) return true;
-		if(stemmedStopWordSet.contains(word)) return true;
+		String stemmed = stemString(word.toLowerCase());
+		if(stopWordSet.contains(stemmed.toLowerCase())) return true;
+		if(stemmedStopWordSet.contains(stemmed.toLowerCase())) return true;
+		if(stopWordSet.contains(word.toLowerCase())) return true;
+		if(stemmedStopWordSet.contains(word.toLowerCase())) return true;
 		else return false;
 	}
 	
@@ -36,7 +36,7 @@ public class Stopwords {
 		String[] words = string.split("\\s+");
 		for(String word : words) {
 			if(word.isEmpty()) continue;
-			if(isStopword(string)) continue; //remove stopwords
+			if(isStopword(word)) continue; //remove stopwords
 			result += (word+" ");
 		}
 		return result;
