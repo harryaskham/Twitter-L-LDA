@@ -47,7 +47,7 @@ public class Stopwords {
 		String[] words = string.split("\\s+");
 		for(String word : words) {
 			if(word.isEmpty()) continue;
-			if(isStemmedStopword(word.toLowerCase())) continue;
+			if(isStemmedStopword(word)) continue;
 			if(word.charAt(0) >= '0' && word.charAt(0) <= '9') continue; //remove numbers, "25th", etc
 			result += (word+" ");
 		}
