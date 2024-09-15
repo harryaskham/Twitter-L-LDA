@@ -36,7 +36,7 @@ public class Stopwords {
 		String[] words = string.split("\\s+");
 		for(String word : words) {
 			if(word.isEmpty()) continue;
-			if(isStopword(string)) continue; //remove stopwords
+			if(isStopword(word)) continue; //remove stopwords
 			result += (word+" ");
 		}
 		return result;
